@@ -3,5 +3,27 @@
     "prompt-sync": "^4.2.0",
     "puppeteer": "^18.0.4",
     "sanitize-filename": "^1.6.3"
-  }
+  },
+  "name": "webpage-screenshots",
+  "description": "Takes screenshots of web page from list of URLs.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjpmann/webpage-screenshots.git"
+  },
+  "keywords": [
+    "webpage",
+    "screenshots"
+  ],
+  "author": "jjpmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjpmann/webpage-screenshots/issues"
+  },
+  "homepage": "https://github.com/jjpmann/webpage-screenshots#readme"
 }
